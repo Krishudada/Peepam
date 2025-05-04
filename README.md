@@ -1,2 +1,47 @@
 # Peepam
 It's me Krishnam
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Krishnam</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      background-color: #f7f7f7;
+      padding: 50px;
+    }
+    h1 {
+      color: #222;
+    }
+    p {
+      font-size: 18px;
+      color: #444;
+    }
+    .links a {
+      display: inline-block;
+      margin: 10px;
+      padding: 10px 20px;
+      text-decoration: none;
+      color: white;
+      background-color: #007BFF;
+      border-radius: 5px;
+      transition: background-color 0.3s;
+    }
+    .links a:hover {
+      background-color: #0056b3;
+    }
+  </style>
+</head>
+<body>
+  <h1>Hi, I'm Krishnam</h1>
+  <p>Welcome to my official page! Connect with me below:</p>
+
+  <div class="links">
+    <a href="https://www.instagram.com/fast_furious_krishnam7" target="_blank">Instagram</a>
+    <a href="https://www.youtube.com/@KRISHNAMYADAV-co2il" target="_blank">YouTube</a>
+  </div>
+</body>
+</html>
