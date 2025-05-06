@@ -92,6 +92,10 @@ It's me Krishnam
   <p>Follow me on Instagram and YouTube</p>
 
   <div class="links">
+     <a class="button" href="https://mega.nz/file/jRs0kSYK#MKyiMcsG19wB_gEGQRnT0UTR1d5aDhyw_GE7n1o5Msc" target="_blank">Download ZIP File</a>
+   <a class="button" href="https://mega.nz/file/jRs0kSYK#MKyiMcsG19wB_gEGQRnT0UTR1d5aDhyw_GE7n1o5Msc" target="_blank">Download ZIP File</a>
+  </div>
+
   <a class="button" href="https://mega.nz/file/jRs0kSYK#MKyiMcsG19wB_gEGQRnT0UTR1d5aDhyw_GE7n1o5Msc" target="_blank">Download ZIP File</a>
 </body>
 </html>
