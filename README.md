@@ -92,10 +92,6 @@ It's me Krishnam
   <p>Follow me on Instagram and YouTube</p>
 
   <div class="links">
-    <a href="https://www.instagram.com/fast_furious_krishnam7/" target="_blank">Instagram: @fast_furious_krishnam7</a>
-    <a href="https://www.youtube.com/@KRISHNAMYADAV-co2il" target="_blank">YouTube: @KRISHNAMYADAV-co2il</a>
-  </div>
-
   <a class="button" href="https://mega.nz/file/jRs0kSYK#MKyiMcsG19wB_gEGQRnT0UTR1d5aDhyw_GE7n1o5Msc" target="_blank">Download ZIP File</a>
 </body>
 </html>
